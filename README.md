@@ -16,7 +16,8 @@ Rooms are assembled dynamically from modular prefabs using rules that ensure:
 - Valid dungeon layouts  
 - Traversable paths  
 - Varied gameplay pacing  
-- A mix of puzzle, stealth, and challenge rooms  
+- A mix of puzzle, stealth, and challenge rooms
+- Abilities the player can use to attack or evade enemies
 
 Includes a **dynamic minimap** that updates as the player explores.
 
@@ -97,9 +98,6 @@ Though I did not lead the project, I played a key part in core system developmen
 ---
 
 ## Screenshots
-(Place your images in a `/Screenshots` folder and link them here.)
 
-Example:
-```md
-![screenshot1](Screenshots/screenshot1.png)
-![screenshot2](Screenshots/screenshot2.png)
+![screenshot1](Screenshots/Screenshot1.png)
+![screenshot2](Screenshots/Screenshot2.png)
