@@ -1,6 +1,6 @@
 # Slime Lab (SLAB)
 
-Slime Lab is a short experimental Unity game built as part of the **University of Central Florida’s AI in Game Programming course**.  
+Slime Lab is a short experimental Unity game built as part of the **University of Central Florida’s AI in Game Programming course** in the Fall semester of 2024.  
 The project explores the design of a **procedural puzzle dungeon**: a dynamically generated maze filled with hazards, stealth segments, environmental puzzles, item pickups, and a challenging multi-phase boss encounter.
 
 The player controls a small slime creature navigating through interconnected rooms, solving puzzles, collecting upgrades, and preparing for the final showdown.
